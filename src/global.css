@@ -42,7 +42,6 @@ body {
 
     display: flex;
     flex-direction: column;
-    gap: 2.4rem;
 
     padding: 2.4rem 2.4rem 1.6rem;
     border-radius: 1.2rem;
@@ -60,6 +59,8 @@ body {
     gap: 1.6rem;
     align-items: center;
     height: 4.8rem;
+
+    margin-bottom: 2.4rem;
 }
 
 #user .avatar img{
@@ -125,5 +126,27 @@ body {
 
 .item p {
     flex: 1;
+}
+
+.page-title {
+    font-size: 3.2rem;
+    font-weight: 400;
+    color: var(--gray_100);
+
+    margin: .8rem 0 1.6rem;
+    line-height: 130%;
+}
+
+.wrapper:not(.wrapper:last-child) {
+    margin-bottom: 1.2rem;
+}
+
+.wrapper .title {
+    color: var(--gray_300);
+    font-size: 1.4rem;
+}
+
+.wrapper .content {
+    font-size: 1.4rem;
 }
 
