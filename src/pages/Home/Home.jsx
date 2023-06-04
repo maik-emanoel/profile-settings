@@ -10,7 +10,6 @@ import {
 } from "@phosphor-icons/react";
 
 import Item from "../../components/item";
-import "./index.css";
 
 export default function Home() {
   return (
@@ -51,12 +50,12 @@ export default function Home() {
           <Item
             icon={<Bell size={20} />}
             text="Notificações"
-            to="/personal-data"
+            to="/notifications"
           />
           <Item
             icon={<PersonArmsSpread size={20} />}
             text="Acessibilidade"
-            to="/login-info"
+            to="/accessibility"
           />
         </div>
 
@@ -79,13 +78,11 @@ export default function Home() {
           <Item
             icon={<Question size={20} />}
             text="Central de Ajuda"
-            to="/personal-data"
             showCaret={false}
           />
           <Item
             icon={<SignOut size={20} color="#AA2222" />}
             text="Sair"
-            to="/login-info"
             showCaret={false}
             textColor="#AA2222"
           />
