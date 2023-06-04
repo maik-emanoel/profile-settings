@@ -65,12 +65,12 @@ export default function Home() {
           <Item
             icon={<Devices size={20} />}
             text="Aparelhos conectados"
-            to="/personal-data"
+            to="/linked-devices"
           />
           <Item
             icon={<UserSwitch size={20} />}
             text="Contas vinculadas"
-            to="/login-info"
+            to="/linked-accounts"
           />
         </div>
 
