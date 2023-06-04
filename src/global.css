@@ -150,3 +150,26 @@ body {
     font-size: 1.4rem;
 }
 
+.container.accessibility .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--gray_100);
+
+    cursor: pointer;
+    margin-bottom: .8rem;
+}
+
+.container.linked-devices .wrapper span {
+    font-size: 1.2rem;
+    color: var(--gray_300);
+}
+
+.empty-page {
+    text-align: center;
+    font-size: 1.4rem;
+    width: 70%;
+    margin: auto;
+    line-height: 130%;
+    color: var(--gray_200);
+}
