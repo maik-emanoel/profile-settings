@@ -1,0 +1,43 @@
+.notification-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.toggle-button {
+    display: inline-block;
+    width: 4rem;
+    height: 2rem;
+    background-color: #ccc;
+    border-radius: 2rem;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .toggle-button.active {
+    background-color: rgb(193, 77, 193);
+  }
+  
+  .toggle-button-inner {
+    width: 1.2rem;
+    height: 1.2rem;
+    background-color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    transition: all .2s ease-in-out;
+  }
+  
+  .toggle-button.active .toggle-button-inner {
+    left: 60%;
+  }
+
+  
+  
+  
+  
+  
+  
+  
