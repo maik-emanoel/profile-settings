@@ -122,6 +122,11 @@ body {
     
     text-decoration: none;
     color: inherit;
+    border-radius: 1.2rem;
+}
+
+.item a:hover {
+    background: var(--gray_400);
 }
 
 .item p {
