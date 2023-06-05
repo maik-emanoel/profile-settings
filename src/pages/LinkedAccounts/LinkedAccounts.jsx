@@ -1,4 +1,4 @@
-import BackButton from "../../components/backButton";
+import BackButton from "../../components/BackButton";
 
 export default function LinkedAccounts() {
     return (

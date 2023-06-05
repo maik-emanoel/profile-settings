@@ -1,5 +1,5 @@
 import { CaretRight } from "@phosphor-icons/react"
-import BackButton from "../../components/backButton"
+import BackButton from "../../components/BackButton"
 import ToggleButton from "../../components/toggleButton/index"
 
 export default function Accessibility() {
