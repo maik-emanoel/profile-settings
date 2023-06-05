@@ -178,3 +178,13 @@ body {
     line-height: 130%;
     color: var(--gray_200);
 }
+
+@media (max-width: 425px) {
+    :root {
+        font-size: 50%;
+    }
+
+    .container {
+        width: 90%;
+    }
+}
