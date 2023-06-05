@@ -1,4 +1,4 @@
-import BackButton from '../../components/backButton'
+import BackButton from '../../components/backButton/index'
 
 // eslint-disable-next-line react/prop-types
 export default function PersonalData() {
