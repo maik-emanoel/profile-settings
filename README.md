@@ -28,4 +28,4 @@ Após o desenvolvimento do projeto inicial, adicionei novas features, tais quais
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto proposto através [DESSE LINK](https://www.figma.com/community/file/1243194167725942248). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto proposto através [DESSE LINK](https://www.figma.com/community/file/1245736372337157133). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
