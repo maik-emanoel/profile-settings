@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto simula uma interface de tela de Configurações de perfil de usuário. Utilizando a biblioteca react-router-dom, consegui criar várias telas em rotas diferentes para proporcionar uma experiência autêntica. <br>
 
-Projeto construído a partir do layout proposto no desafio [#BoraCodar21](https://boracodar.dev/) realizado pela [Rocketseat](https://rocketseat.com.br).
+Projeto construído a partir do layout proposto no desafio [#BoraCodar22](https://boracodar.dev/) realizado pela [Rocketseat](https://rocketseat.com.br).
 Após o desenvolvimento do projeto inicial, adicionei novas features, tais quais:
 
 - Layout responsivo (Adaptado para telas menores);
